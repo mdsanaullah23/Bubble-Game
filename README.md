@@ -43,6 +43,3 @@ If you have any questions, feedback, or suggestions regarding the Bubble Game, f
 Have fun and happy bubble popping!
 
 ---
-
-*Note: Replace placeholders such as email address and screenshot reference with actual information.*
-
